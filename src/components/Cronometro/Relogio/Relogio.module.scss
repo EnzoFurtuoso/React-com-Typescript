@@ -1,0 +1,22 @@
+.relogioNumber {
+    background-color: #5D677C;
+    box-shadow: 2px 4px 4px #0000009F inset;
+    height: 3.6rem;
+    width: 3rem;
+    padding: 8px 4px;
+    border-radius: 10px;
+
+    @media (min-width: 1280px) {
+        height: 10.8rem;
+        width: 9rem;
+    }
+}
+
+.relogioDivision {
+    height: 4.2rem;
+
+    @media (min-width: 1280px) {
+        height: 12.6rem;
+    }
+
+}
